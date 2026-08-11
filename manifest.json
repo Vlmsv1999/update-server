@@ -1,0 +1,496 @@
+{
+    "files": [
+        {
+            "path": "mods/1.0.1.jar",
+            "hash": "65e26faa396d60be0329204abb6f6a69",
+            "size": 930023,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/1.0.1.jar"
+        },
+        {
+            "path": "mods/10.0.1.jar",
+            "hash": "19de859310cb8c3a8285a27824e5a789",
+            "size": 2691793,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/10.0.1.jar"
+        },
+        {
+            "path": "mods/11.0.1.jar",
+            "hash": "e174262d1ef8ace21ea2c1c0fa80fca8",
+            "size": 117333,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/11.0.1.jar"
+        },
+        {
+            "path": "mods/12.0.1.jar",
+            "hash": "4cf57d8c0b73d6a00b22224384953de8",
+            "size": 627640,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/12.0.1.jar"
+        },
+        {
+            "path": "mods/13.0.1.jar",
+            "hash": "f58e0d01767181d5d30990a128a11e45",
+            "size": 584998,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/13.0.1.jar"
+        },
+        {
+            "path": "mods/14.0.1.jar",
+            "hash": "3619f2438306dfffc792b80425cb00c2",
+            "size": 305635,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/14.0.1.jar"
+        },
+        {
+            "path": "mods/15.0.1.jar",
+            "hash": "287ee9cfc6015f706672fd8c20f5ef9c",
+            "size": 786695,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/15.0.1.jar"
+        },
+        {
+            "path": "mods/16.0.1.jar",
+            "hash": "9ba3d734dac0e59deb4721f2f23c65ad",
+            "size": 161045,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/16.0.1.jar"
+        },
+        {
+            "path": "mods/17.0.1.jar",
+            "hash": "0f1bfbf2dd4fa047a1616fc448f3b856",
+            "size": 188035,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/17.0.1.jar"
+        },
+        {
+            "path": "mods/18.0.1.jar",
+            "hash": "93e684b0c741294dc2ac7e6b1f958dd2",
+            "size": 204541,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/18.0.1.jar"
+        },
+        {
+            "path": "mods/19.0.1.jar",
+            "hash": "77e7101f13cc00e9912bea17f533f621",
+            "size": 17630105,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/19.0.1.jar"
+        },
+        {
+            "path": "mods/2.0.1.jar",
+            "hash": "45d8bada7797af61d1f5543313b1f9f0",
+            "size": 1172214,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/2.0.1.jar"
+        },
+        {
+            "path": "mods/20.1.0.jar",
+            "hash": "d4904e8ad4f9c812bd82b1f7a084444b",
+            "size": 8182242,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/20.1.0.jar"
+        },
+        {
+            "path": "mods/21.0.1.jar",
+            "hash": "aa37ba0048a1af6b554b137088cad484",
+            "size": 1297761,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/21.0.1.jar"
+        },
+        {
+            "path": "mods/22.0.1.jar",
+            "hash": "ca0dba404bfe5dc500cc041e56313d97",
+            "size": 3641948,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/22.0.1.jar"
+        },
+        {
+            "path": "mods/23.0.1.jar",
+            "hash": "c1e1cbf71f96123a9e6ff8bfa6a3267c",
+            "size": 721869,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/23.0.1.jar"
+        },
+        {
+            "path": "mods/3.0.1.jar",
+            "hash": "7c3d81052fc8d707a425175a95f79ef6",
+            "size": 2744466,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/3.0.1.jar"
+        },
+        {
+            "path": "mods/4.0.1.jar",
+            "hash": "7b7f48061cb987cc96a856c3dd3ad20b",
+            "size": 4152141,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/4.0.1.jar"
+        },
+        {
+            "path": "mods/5.0.1.jar",
+            "hash": "e97bdff5eb0877341d7bc212e77d274f",
+            "size": 427923,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/5.0.1.jar"
+        },
+        {
+            "path": "mods/6.0.1.jar",
+            "hash": "97decc64a14cae9654210c2cbc47a081",
+            "size": 218215,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/6.0.1.jar"
+        },
+        {
+            "path": "mods/7.0.1.jar",
+            "hash": "91f3be98f2f2cd76d3ad68525f76ff79",
+            "size": 565280,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/7.0.1.jar"
+        },
+        {
+            "path": "mods/8.0.1.jar",
+            "hash": "ae33b3cdbe2d7b431e5d36c41efb34c9",
+            "size": 745421,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/8.0.1.jar"
+        },
+        {
+            "path": "mods/9.0.1.jar",
+            "hash": "777f1430b4d18ed9d7f4ad18ed0c0012",
+            "size": 2451978,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/9.0.1.jar"
+        },
+        {
+            "path": "config/bettercombat/client.json5",
+            "hash": "30745bb72a61556f4e2cc0a0c045bbb7",
+            "size": 721,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/bettercombat/client.json5"
+        },
+        {
+            "path": "config/bettercombat/fallback_compatibility.json",
+            "hash": "cd6019eba788c56ca9a0b6f7a03a02c8",
+            "size": 2995,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/bettercombat/fallback_compatibility.json"
+        },
+        {
+            "path": "config/bettercombat/server.json5",
+            "hash": "212a1d15426ce0482ef96f6a8ee8eaa8",
+            "size": 6207,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/bettercombat/server.json5"
+        },
+        {
+            "path": "config/bettercombat/weapon_trails.json",
+            "hash": "edd1522cb4e3d28eb526e3c8f69af2d2",
+            "size": 7127,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/bettercombat/weapon_trails.json"
+        },
+        {
+            "path": "config/cardinal-components-api.properties",
+            "hash": "7a5c42bb5538c774652ad99f2a3b0078",
+            "size": 452,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/cardinal-components-api.properties"
+        },
+        {
+            "path": "config/CoroUtil/General.toml",
+            "hash": "e89054829f589efab442167898ecfd29",
+            "size": 129,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/CoroUtil/General.toml"
+        },
+        {
+            "path": "config/cristellib/minecraftED.json5",
+            "hash": "e8605aa11b4296e023504703e592bd41",
+            "size": 1476,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/cristellib/minecraftED.json5"
+        },
+        {
+            "path": "config/cristellib/minecraftP.json5",
+            "hash": "1d8b9b72253a97231ff416174c2eb646",
+            "size": 1752,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/cristellib/minecraftP.json5"
+        },
+        {
+            "path": "config/ctov.json",
+            "hash": "2ea1d6bbc16f0bfc7a49c564c31e8f55",
+            "size": 955,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/ctov.json"
+        },
+        {
+            "path": "config/entity_model_features.json",
+            "hash": "ab2385e25be6c3cfde23d6535b2809a6",
+            "size": 1207,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/entity_model_features.json"
+        },
+        {
+            "path": "config/entity_texture_features.json",
+            "hash": "5ce96dd705182a633e1aa1fff1d8d3a6",
+            "size": 1426,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/entity_texture_features.json"
+        },
+        {
+            "path": "config/etf_warnings.json",
+            "hash": "b49b5603d2df29fa132f89ec91974572",
+            "size": 28,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/etf_warnings.json"
+        },
+        {
+            "path": "config/fabric/indigo-renderer.properties",
+            "hash": "80e0ddec2c131e5cb1a380cf4c221021",
+            "size": 290,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fabric/indigo-renderer.properties"
+        },
+        {
+            "path": "config/fancymenu/assets/hinh-nen-zombie-game_025419787.jpeg",
+            "hash": "2c065527f2e49b0421fc4d7f84046573",
+            "size": 57912,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/assets/hinh-nen-zombie-game_025419787.jpeg"
+        },
+        {
+            "path": "config/fancymenu/customizablemenus.txt",
+            "hash": "c0d179ea0078e48c420b0fa8f9128bbd",
+            "size": 143,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/customizablemenus.txt"
+        },
+        {
+            "path": "config/fancymenu/customization/accessibility_options_screen_layout.txt",
+            "hash": "aae8342675dee51c462fd77ed6ceb589",
+            "size": 4150,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/customization/accessibility_options_screen_layout.txt"
+        },
+        {
+            "path": "config/fancymenu/customization/options_screen_layout.txt",
+            "hash": "9c426c0b3d2500da763e6d43f6b70417",
+            "size": 17206,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/customization/options_screen_layout.txt"
+        },
+        {
+            "path": "config/fancymenu/customization/pause_screen_layout.txt",
+            "hash": "bf91477a90682225d1c932c46cf5fc34",
+            "size": 10845,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/customization/pause_screen_layout.txt"
+        },
+        {
+            "path": "config/fancymenu/customization/title_screen_layout.txt",
+            "hash": "15aec77a449bd3194c016dd979b3aced",
+            "size": 13433,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/customization/title_screen_layout.txt"
+        },
+        {
+            "path": "config/fancymenu/custom_gui_screens.txt",
+            "hash": "106e52948415f0879c53304f50783b28",
+            "size": 51,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/custom_gui_screens.txt"
+        },
+        {
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "hash": "91dfd3aca7e225923f390f4f8dd175ee",
+            "size": 199,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+        },
+        {
+            "path": "config/fancymenu/legacy_checklist.txt",
+            "hash": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/legacy_checklist.txt"
+        },
+        {
+            "path": "config/fancymenu/options.txt",
+            "hash": "23ea7821f096a41e05210b7c3b8d5175",
+            "size": 1749,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/options.txt"
+        },
+        {
+            "path": "config/fancymenu/ui_themes/dark.json",
+            "hash": "1fc916f1d20b24c5f0d2d138d19c49a4",
+            "size": 4133,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/ui_themes/dark.json"
+        },
+        {
+            "path": "config/fancymenu/ui_themes/light.json",
+            "hash": "adfba137b3d62c50a5186a4f6523a72a",
+            "size": 4135,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/ui_themes/light.json"
+        },
+        {
+            "path": "config/fancymenu/user_variables.db",
+            "hash": "458e4f3f673e3fea22fb92bf76fcf912",
+            "size": 23,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fancymenu/user_variables.db"
+        },
+        {
+            "path": "config/ferritecore.mixin.properties",
+            "hash": "bf3e6be63e300b0290cfc849beb64ede",
+            "size": 1525,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/ferritecore.mixin.properties"
+        },
+        {
+            "path": "config/fml.toml",
+            "hash": "6e8f818f7bd378757b1f79fd3a222121",
+            "size": 1145,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/fml.toml"
+        },
+        {
+            "path": "config/forge-client.toml",
+            "hash": "d9ff8903d8ccb09311651ba45d897419",
+            "size": 400,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/forge-client.toml"
+        },
+        {
+            "path": "config/forge-common.toml",
+            "hash": "3544cf17bf96d79598332c69c56aaca2",
+            "size": 283,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/forge-common.toml"
+        },
+        {
+            "path": "config/forgeconfigapiport.toml",
+            "hash": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
+            "size": 523,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/forgeconfigapiport.toml"
+        },
+        {
+            "path": "config/guardvillagers.json",
+            "hash": "606a4b7ada1434c2f98014385d8f0d63",
+            "size": 908,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/guardvillagers.json"
+        },
+        {
+            "path": "config/jei-server.properties",
+            "hash": "fdc0f6c5fb65bd12addf7b3acaf11bb7",
+            "size": 374,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/jei-server.properties"
+        },
+        {
+            "path": "config/konkrete/locals/de_de.local",
+            "hash": "3aac3df2519057d2305f894c37771e30",
+            "size": 369,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/konkrete/locals/de_de.local"
+        },
+        {
+            "path": "config/konkrete/locals/en_us.local",
+            "hash": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "size": 426,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/konkrete/locals/en_us.local"
+        },
+        {
+            "path": "config/konkrete/locals/pl_pl.local",
+            "hash": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "size": 313,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/konkrete/locals/pl_pl.local"
+        },
+        {
+            "path": "config/konkrete/locals/pt_br.local",
+            "hash": "2d055da094c115b94f0e4373a2e06ebe",
+            "size": 322,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/konkrete/locals/pt_br.local"
+        },
+        {
+            "path": "config/lithostitched.json",
+            "hash": "345e5fd8f4228a78675c761850e85ba9",
+            "size": 284,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/lithostitched.json"
+        },
+        {
+            "path": "config/midnightlib.json",
+            "hash": "96bc8c4809d1b71f3fb24d7b83aaa56e",
+            "size": 34,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/midnightlib.json"
+        },
+        {
+            "path": "config/pointblank-common.toml",
+            "hash": "3b526f15d002fdb9629121fd9454d7d2",
+            "size": 3074,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/pointblank-common.toml"
+        },
+        {
+            "path": "config/pointblank-items.toml",
+            "hash": "31ef8825879ad8c51021843fa3dfa91b",
+            "size": 11829,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/pointblank-items.toml"
+        },
+        {
+            "path": "config/repurposed_structures.json",
+            "hash": "d2bc0fd0c85daf4a309379b73baac2ea",
+            "size": 88,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/repurposed_structures.json"
+        },
+        {
+            "path": "config/sodium-fingerprint.json",
+            "hash": "3ad6ef12d2e74b8f8e00c237bd5987f6",
+            "size": 427,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/sodium-fingerprint.json"
+        },
+        {
+            "path": "config/sodium-mixins.properties",
+            "hash": "a5b6a84e034d60be869ae33f2dba4e2b",
+            "size": 258,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/sodium-mixins.properties"
+        },
+        {
+            "path": "config/sodium-options.json",
+            "hash": "3ce98b9fd30ed0d3f7b5d81fac1f2511",
+            "size": 685,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/sodium-options.json"
+        },
+        {
+            "path": "config/tacz-client.toml",
+            "hash": "91c8d1c37a6b7c7777313d87eab2ef94",
+            "size": 2316,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/tacz-client.toml"
+        },
+        {
+            "path": "config/tacz-common.toml",
+            "hash": "ccb67e3f67c5674df000ce170bde2f4c",
+            "size": 2168,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/tacz-common.toml"
+        },
+        {
+            "path": "config/tacz-pre.toml",
+            "hash": "0739ab05d46c40ca680480d304192284",
+            "size": 218,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/tacz-pre.toml"
+        },
+        {
+            "path": "config/tacz-server.toml",
+            "hash": "e401d093297e170a6b7cd6aa8a13b29a",
+            "size": 2008,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/tacz-server.toml"
+        },
+        {
+            "path": "config/towns_and_towers/structure_enable_or_disable_new.json5",
+            "hash": "4f257e2696bcae9b525ba77001922d71",
+            "size": 3125,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/towns_and_towers/structure_enable_or_disable_new.json5"
+        },
+        {
+            "path": "config/towns_and_towers/structure_rarity_new.json5",
+            "hash": "e07045989eb82073244b0f50001cffc9",
+            "size": 1583,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/towns_and_towers/structure_rarity_new.json5"
+        },
+        {
+            "path": "config/zombieawareness/ClientConfig.toml",
+            "hash": "a58cff5062822f7dd8f0fbd94f67813c",
+            "size": 107,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/zombieawareness/ClientConfig.toml"
+        },
+        {
+            "path": "config/zombieawareness/Features.toml",
+            "hash": "833b4dde7d91938981c926e556fca5c0",
+            "size": 1560,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/zombieawareness/Features.toml"
+        },
+        {
+            "path": "config/zombieawareness/General-1.toml.bak",
+            "hash": "5b8cd9b8d44a183e4d2d4935e1164f28",
+            "size": 2890,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/zombieawareness/General-1.toml.bak"
+        },
+        {
+            "path": "config/zombieawareness/General.toml",
+            "hash": "e05e7e6e2759bdc0be009949e1f78202",
+            "size": 2897,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/zombieawareness/General.toml"
+        },
+        {
+            "path": "config/zombieawareness/MobLists.toml",
+            "hash": "9d40ac21013dc4319c19454cfd663375",
+            "size": 1300,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/zombieawareness/MobLists.toml"
+        },
+        {
+            "path": "config/zombieawareness/PlayerRulesAndLists.toml",
+            "hash": "2fea78d68cb9dac098487a76b7a47b06",
+            "size": 408,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/zombieawareness/PlayerRulesAndLists.toml"
+        },
+        {
+            "path": "scripts/1.0.1.zs",
+            "hash": "4c4f92020c0318bac6eec3672057e4b0",
+            "size": 415,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/scripts/1.0.1.zs"
+        },
+        {
+            "path": "resourcepacks/1.0.1.zip",
+            "hash": "8f16361fee71e309f68df6e8444e163f",
+            "size": 516884,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/resourcepacks/1.0.1.zip"
+        }
+    ]
+}
