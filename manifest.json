@@ -127,10 +127,28 @@
             "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/28.0.1.jar"
         },
         {
+            "path": "mods/29.0.1.jar",
+            "hash": "556828afd5a305c86b93230b47bcd3fa",
+            "size": 129080,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/29.0.1.jar"
+        },
+        {
             "path": "mods/3.0.1.jar",
             "hash": "7c3d81052fc8d707a425175a95f79ef6",
             "size": 2744466,
             "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/3.0.1.jar"
+        },
+        {
+            "path": "mods/30.0.1.jar",
+            "hash": "53e3161f2ae3b05b5b5e5e3f2562eec4",
+            "size": 2159724,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/30.0.1.jar"
+        },
+        {
+            "path": "mods/31.0.1.jar",
+            "hash": "aacef167cab061fb2093a0437aed2a3f",
+            "size": 23908,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/31.0.1.jar"
         },
         {
             "path": "mods/4.0.1.jar",
@@ -509,6 +527,12 @@
             "hash": "2fea78d68cb9dac098487a76b7a47b06",
             "size": 408,
             "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/zombieawareness/PlayerRulesAndLists.toml"
+        },
+        {
+            "path": "config/zombie_tactics.json",
+            "hash": "7d026aca2a1d7c619557e3503e5c0891",
+            "size": 703,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/config/zombie_tactics.json"
         },
         {
             "path": "scripts/1.0.1.zs",
