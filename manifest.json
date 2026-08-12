@@ -152,15 +152,21 @@
         },
         {
             "path": "mods/32.0.1.jar",
-            "hash": "532f7a78f80fe9886a8ffc2d163f94ad",
-            "size": 1177772,
+            "hash": "58404924cc65c754cea959b2921d76fd",
+            "size": 421567,
             "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/32.0.1.jar"
         },
         {
             "path": "mods/33.0.1.jar",
-            "hash": "a6f37f18294e3587751c8d9d8c9db4af",
-            "size": 9953,
+            "hash": "ff2f33b4f400d9ccf3bc6e160246b101",
+            "size": 336763,
             "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/33.0.1.jar"
+        },
+        {
+            "path": "mods/34.0.1.jar",
+            "hash": "57233d71c4a59e45fa16c09c0b31d173",
+            "size": 234884,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/34.0.1.jar"
         },
         {
             "path": "mods/4.0.1.jar",
