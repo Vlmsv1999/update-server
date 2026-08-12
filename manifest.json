@@ -152,9 +152,15 @@
         },
         {
             "path": "mods/32.0.1.jar",
-            "hash": "57233d71c4a59e45fa16c09c0b31d173",
-            "size": 234884,
+            "hash": "532f7a78f80fe9886a8ffc2d163f94ad",
+            "size": 1177772,
             "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/32.0.1.jar"
+        },
+        {
+            "path": "mods/33.0.1.jar",
+            "hash": "a6f37f18294e3587751c8d9d8c9db4af",
+            "size": 9953,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/33.0.1.jar"
         },
         {
             "path": "mods/4.0.1.jar",
