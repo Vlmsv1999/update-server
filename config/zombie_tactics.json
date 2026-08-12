@@ -1,0 +1,28 @@
+{
+  "affectPiglins": true,
+  "targetAnimals": true,
+  "targetAnimalsPriority": 3,
+  "targetAnimalsVisibilityCheck": false,
+  "mineBlocks": true,
+  "miningMinDistance": 0.2,
+  "miningMaxDistance": 32.0,
+  "dropBrokenBlocks": true,
+  "miningPriority": 1,
+  "zombieClimbing": true,
+  "climbingSpeed": 0.5,
+  "miningIncrement": 0.1,
+  "maxHardness": 12.0,
+  "hardnessMultiplier": 8.0,
+  "enableMarkers": true,
+  "markerLifetime": 20,
+  "markerSpawnChance": 0.5,
+  "markerRange": 96.0,
+  "markersSpawnOnDamage": true,
+  "markersSpawnOnItemUse": true,
+  "markersSpawnOnProjectileHit": true,
+  "markerNavigationPriority": 2,
+  "markerSpawningEntities": [
+    "minecraft:player",
+    "minecraft:villager",
+  ]
+}
