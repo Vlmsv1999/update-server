@@ -116,9 +116,15 @@
         },
         {
             "path": "mods/27.0.1.jar",
-            "hash": "e3777d9770b54513344ffa61f6f5758b",
-            "size": 51754,
+            "hash": "fe5d337681bada0320f21862e645cbd2",
+            "size": 296986,
             "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/27.0.1.jar"
+        },
+        {
+            "path": "mods/28.0.1.jar",
+            "hash": "b662ceb4ba79901b4adbdc2fba35c7ad",
+            "size": 165279,
+            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/mods/28.0.1.jar"
         },
         {
             "path": "mods/3.0.1.jar",
