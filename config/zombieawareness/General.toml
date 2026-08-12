@@ -14,10 +14,10 @@
 	seeThroughWalls = false
 	#Effects how far monsters will sense scents from
 	#Range: > 0
-	scentStrength = 100
+	scentStrength = 50
 	#Effects how far monsters will sense sound sources from
 	#Range: > 0
-	soundStrength = 200
+	soundStrength = 100
 	#max rate of spawning sound sources in milliseconds
 	#Range: > 0
 	frequentSoundThreshold = 1000
