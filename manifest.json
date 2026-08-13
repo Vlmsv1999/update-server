@@ -563,18 +563,6 @@
             "hash": "8f16361fee71e309f68df6e8444e163f",
             "size": 516884,
             "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/resourcepacks/1.0.1.zip"
-        },
-        {
-            "path": "versions/fabric-loader-0.19.3-1.21/1.21.json",
-            "hash": "fc1cf655b3178fd18b481cf0d6adf57c",
-            "size": 65579,
-            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/versions/fabric-loader-0.19.3-1.21/1.21.json"
-        },
-        {
-            "path": "versions/fabric-loader-0.19.3-1.21/fabric-loader-0.19.3-1.21.json",
-            "hash": "a31480292c09eb36063c7d5cb916c1d3",
-            "size": 2856,
-            "url": "https://raw.githubusercontent.com/Vlmsv1999/update-server/main/versions/fabric-loader-0.19.3-1.21/fabric-loader-0.19.3-1.21.json"
         }
     ]
 }
